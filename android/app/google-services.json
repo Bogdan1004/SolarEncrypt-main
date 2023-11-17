@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794602080875",
+    "project_id": "solarencrypt-28b1c",
+    "storage_bucket": "solarencrypt-28b1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794602080875:android:78a10a5bbc9cf3a834bf2e",
+        "android_client_info": {
+          "package_name": "com.example.solarencrypt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx1Q34t8umvuMXKGslDzmW-LoVWzYGunM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
